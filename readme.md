@@ -20,12 +20,12 @@ are mixed with names that are associated with cultures from other parts of the w
 
 
 **Examples of generated names**:
--Yareli Angel Milena Sharp
--Sevyn Selene Nicholson
--Alani Johnson
--Blaine Carr
--Harley O’connor
--Hezekiah Elijah Marvin Brady
+- Yareli Angel Milena Sharp
+- Sevyn Selene Nicholson
+- Alani Johnson
+- Blaine Carr
+- Harley O’connor
+- Hezekiah Elijah Marvin Brady
 
 
 Recommended Python version 3.8 or higher (it was built on Python 3.11.8)
