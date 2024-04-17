@@ -15,17 +15,17 @@ contains surnames.
 
 
 The names and surname lists were compiled from public available data from the [UK's Office for National Statistics](https://www.ons.gov.uk/) 
-and consists of existing registered baby names, therefore traditional English names
-are mixed with names that are associated with cultures from other parts of the world.
+and consists of existing registered baby names, therefore **traditional English names
+are mixed with names that are associated with cultures from other parts of the world**.
 
 
 **Examples of generated names**:
-Yareli Angel Milena Sharp
-Sevyn Selene Nicholson
-Alani Johnson
-Blaine Carr
-Harley O’connor
-Hezekiah Elijah Marvin Brady
+*Yareli Angel Milena Sharp
+*Sevyn Selene Nicholson
+*Alani Johnson
+*Blaine Carr
+*Harley O’connor
+*Hezekiah Elijah Marvin Brady
 
 
 Recommended Python version 3.8 or higher (it was built on Python 3.11.8)
